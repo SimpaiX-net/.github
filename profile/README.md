@@ -1,5 +1,5 @@
 
-<img src=https://github.com/SimpaiX-net/.github/assets/48758770/af960480-aa63-4be4-94bf-66d43453bb83" width="200" style="position: absolute; left:0;"><br>
+<img src="https://github.com/SimpaiX-net/.github/assets/48758770/af960480-aa63-4be4-94bf-66d43453bb83" width="200" style="position: absolute; left:0;"><br>
 # SimpaiX
 We innovate cutting-edge IT solutions. Seamlessly integrateable with ease to your own use or system.
 
