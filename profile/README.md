@@ -3,7 +3,10 @@
 # SimpaiX
 We innovate cutting-edge IT solutions. Seamlessly integrateable with ease to your own use or system.
 
-**SimpaiX is a large marketplace for the virtual products and services we provide, made by SimpaiX.**
+**SimpaiX is a large-scale marketplace for the virtual products and services which solve problems!**
 
 #### About
 Whether you seek productivity boosters for personal tasks, creative tools for artistic pursuits, or business-enhancing applications or services for professional growth, our comprehensive platform seamlessly connects you with a diverse range of vendors offering the latest digital advancements.
+
+#### Note
+Not deployed nor founded.
